@@ -1,0 +1,21 @@
+body {
+    background: rgb(214, 204, 159);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.text {
+    background: url(bohan-zhang-RDYxZhW_ptw-unsplash.jpg);
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-size: cover;
+    color: transparent;
+    font-size: 10rem;
+    font-weight: 900;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke: 90%;
+}
